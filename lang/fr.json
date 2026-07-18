@@ -1,0 +1,8 @@
+{
+  "connected": "✅ ARCHON connecté",
+  "disconnected": "❌ ARCHON déconnecté",
+  "session_not_found": "Session introuvable. Générez-en une sur bamako-steel-dev.xyz/whatsapp",
+  "session_error": "Erreur de session. Réessayez.",
+  "owner_only": "❌ Commande réservée au propriétaire.",
+  "pong": "🟢 En ligne"
+}
